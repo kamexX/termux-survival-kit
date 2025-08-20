@@ -9,6 +9,10 @@ echo "=== Termux Survival Kit Installer ==="
 echo "[*] Updating packages..."
 pkg update -y && pkg upgrade -y
 
+echo "[*] Setting up Storage..."
+termux-setup-storage
+
+
 # Liste der Pakete
 PACKAGES=(
   zsh
