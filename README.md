@@ -53,4 +53,4 @@ This script provides a powerful, portable development environment on your Androi
 ---
 
 ## Installation
-sh -c "$(curl -fsSL [https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh](https://raw.githubusercontent.com/kamexX/termux-survival-kit/refs/heads/main/install.sh))"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/kamexX/termux-survival-kit/refs/heads/main/install.sh)"
